@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my page 👋
 
 - 🔭 I’m currently working on shopify projects
 - 🌱 I’m currently learning Digital Marketing and Full stack developing
